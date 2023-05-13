@@ -4,9 +4,9 @@ This project demonstrates how to build a voice assistant using Azure Cognitive S
 
 ## Prerequisites
 
-- An Azure account with access to Cognitive Speech Services.
-- Access to Azure OpenAI GPT-4.
-- Langchain installed on your system.
+- Azure account
+- Azure Speech Service: https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/
+- Azure OpenAI Service: https://azure.microsoft.com/en-us/products/cognitive-services/openai-service
 
 ## Setup
 
