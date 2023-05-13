@@ -1,4 +1,4 @@
-# Voice Assistant with Azure Cognitive Speech Services, Azure OpenAI GPT-4, and Langchain
+# Voice Assistant with Azure Cognitive Speech Services, Azure OpenAI (GPT-4) and Langchain
 
 This project demonstrates how to build a voice assistant using Azure Cognitive Speech Services, Azure OpenAI GPT-4, and Langchain. The voice assistant can perform a variety of tasks such as opening applications, fixing bugs in code, locking your computer, and fetching stock prices.
 
