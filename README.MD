@@ -2,6 +2,10 @@
 
 This project demonstrates how to build a voice assistant using Azure Cognitive Speech Services, Azure OpenAI GPT-4, and Langchain. The voice assistant can perform a variety of tasks such as opening applications, fixing bugs in code, locking your computer, and fetching stock prices.
 
+The voice assistant use Langchain Agents to perform task against the terminal and run Python code. You can easily add more tools by adding tools to load_tools(). 
+
+Read more about Langchain and Langchain agents here: https://python.langchain.com/en/latest/modules/agents.html
+
 ## Prerequisites
 
 - Azure account
