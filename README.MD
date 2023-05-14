@@ -6,6 +6,19 @@ The voice assistant use Langchain Agents to perform task against the terminal an
 
 Read more about Langchain and Langchain agents here: https://python.langchain.com/en/latest/modules/agents.html
 
+## Example Prompts
+
+Once the voice assistant is running, you can use the following example prompts to interact with it:
+
+* "Hey Astra, open Microsoft Edge."
+* "Hey Astra, fix the bug in the code in my clipboard and set the solution to my clipboard."
+* "Hey Astra, lock my computer."
+* "Hey Astra, what is the stock price of MSFT?"
+* "Hey Astra, what time is it?"
+
+It can also respond to any general queries that the GPT model is capable of answering. However, its capabilities extend beyond that. Since it has access to the terminal and Python through a Langchain agent, it can also interact with your system.
+
+
 ## Prerequisites
 
 - Azure account
